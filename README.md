@@ -1,0 +1,4 @@
+ligo
+====
+
+Ligo pantiņu ģenerators
